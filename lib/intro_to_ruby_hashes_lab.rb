@@ -5,7 +5,7 @@ end
 
 def my_hash
   hash = {
-    "dog" = "cymbi"
+    :dog => "cymbi"
   }
 end
 
